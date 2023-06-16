@@ -8,7 +8,7 @@ Squares and Cubes
 LIVE LINK :  https://nandeeshjkalakatti1231.on.drv.tw/Assingment2/
 # Assignment3
 Photo Rating
-LIVE LINK : https://nandeeshjkalakatti1231.on.drv.tw/Assingment3/
+LIVE LINK : https://nandeeshjkalakatti1231.on.drv.tw/Assingment00/
 # Assignment4
 Program-4
 LIVE LINK : https://nandeeshjkalakatti1231.on.drv.tw/Assingment4/
